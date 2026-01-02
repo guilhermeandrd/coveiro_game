@@ -9,6 +9,7 @@ from tkinter import font
 
 fase_1.destroy()
 
+
 pygame.mixer.init()
 pygame.mixer.music.load("arquivos_mp3/marchafunebre")
 
