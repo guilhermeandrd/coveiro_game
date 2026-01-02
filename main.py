@@ -25,7 +25,10 @@ def iniciar_jogo():
     
     pygame.mixer.music.stop()
     fase_1.__init__()
+    pygame.mixer.music.load("arquivos_mp3/musica_de_fundo.mp3")
+    pygame.mixer.music.play()
     iniciar_fase1()
+    
 
     
 
