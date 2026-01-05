@@ -1,6 +1,5 @@
 import pygame
 from fase1 import fase_1, iniciar_fase1
-T
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import font

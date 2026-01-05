@@ -32,12 +32,12 @@ title_label = tk.Label(root,
 texto_intoduorio = tk.Text(root, height=5, width=50)
 
 title_label.pack(pady=40)
-texto_intoduorio.insert(tk.END, "MORTO! \n MORTO!  \n")
-texto_intoduorio.insert(tk.END, "PORQUE NAO VER \n")
-texto_intoduorio.insert(tk.END, "QUE JA MORREU?!  \n")
-texto_intoduorio.insert(tk.END, "você levanta a pá e ataca o fantasma duas vezes!\n")
-texto_intoduorio.insert(tk.END, "MORTO!\n")
-texto_intoduorio.insert(tk.END, "MORTO...\n")
+texto_intoduorio.insert(tk.END, "Como você pôde?\n")
+texto_intoduorio.insert(tk.END, "Tanta vida restante \n")
+texto_intoduorio.insert(tk.END, "Como você ousa?  \n")
+texto_intoduorio.insert(tk.END, "Você crava a pá na cabeça dele\n")
+texto_intoduorio.insert(tk.END, "Morto\n")
+texto_intoduorio.insert(tk.END, "Morto...\n")
 texto_intoduorio.pack(pady=55)
 
 title_label.pack(pady=40)
